@@ -1,0 +1,7 @@
+.mainDiv{
+    width: 1400px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }

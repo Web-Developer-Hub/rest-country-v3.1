@@ -1,0 +1,15 @@
+.childDiv, p{
+    background-color: rgb(238, 251, 255);
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid lightgray;
+    word-spacing: 2px;
+    letter-spacing: .4px;
+    border-radius: 3px;
+  }
+  
+  .childDiv img{
+    width: 350px;
+    padding: 8px;
+    margin: 6px;
+  }
